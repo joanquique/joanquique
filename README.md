@@ -1,7 +1,7 @@
 # 👨‍💻 Joan Enrique Alvarez Escalera
 ## Ingeniero en Sistemas Computacionales - ESCOM IPN
 
-¡Hola! Soy **Desarrollador Web** con experiencia en frontend y backend. Actualmente trabajo como **Desarrollador Frontend** en una empresa de comercio exterior.
+¡Hola! Soy **Desarrollador Web** con experiencia en frontend y backend. Actualmente trabajo como **Desarrollador Frontend Jr** en Buró de Identidad Digital (BID).
 
 ---
 
