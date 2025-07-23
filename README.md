@@ -24,7 +24,7 @@
 
 ## 💼 Actualmente
 
-🔧 Trabajando como **Frontend Developer** en una empresa de comercio exterior, creando soluciones modernas y eficientes para el sector logístico.
+🔧 Trabajando como **Frontend Jr** en Buró de Identidad Digital (BID), creando soluciones modernas y eficientes para el sector de datos biométricos.
 
 ---
 
